@@ -9,13 +9,13 @@ Just say Hello World.
 ## Install
 
 ```
-$ npm install @BeMoreHuman/helloWorld
+$ npm install bemorehuman-helloworld
 ```
 
 ## Usage
 
 ```js
-const helloWorld = require("@BeMoreHuman/helloWorld");
+const helloWorld = require("bemorehuman-helloworld");
 
 helloWorld();
 //=> "Hello World!!!"
