@@ -1,0 +1,13 @@
+{
+  "name": "@BeMoreHuman/helloWorld",
+  "version": "1.0.0",
+  "description": "Just say Hello World!",
+  "license": "MIT",
+  "repository": "BeMoreHuman/helloWorld",
+  "main": "index.js",
+  "keywords": [
+    "npm",
+    "package",
+    "helloWorld"
+  ]
+}
